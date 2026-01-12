@@ -1,4 +1,4 @@
-/*let score=33
+let score=33
 
 console.log(typeof score)
 console.log(typeof(score))
@@ -53,7 +53,6 @@ let ValueInNumber4=Number(score5)
 console.log(typeof ValueInNumber4)
 console.log(typeof(ValueInNumber4))
 console.log(ValueInNumber4)
-*/
 
 let score6=true
 console.log(typeof score6)
@@ -64,3 +63,11 @@ let ValueInNumber5=Number(score6)
 console.log(typeof ValueInNumber5)
 console.log(typeof(ValueInNumber5))
 console.log(ValueInNumber5)
+
+//converstion In Number and Their Value
+// 33=> 33
+//33abc=> NaN(Not a Number)
+//null=>0
+//undefined => NaN
+//shubh=> NaN
+// true=>1 ,flase=>0
